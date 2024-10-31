@@ -1,6 +1,5 @@
 # BikeSales-BI_Analytics
 
-Project Overview
 This project provides a bicycle company's comprehensive Business Intelligence (BI) solution, designed to address challenges in sales performance analysis, product management, and customer insights. Using Power BI for visualization, Microsoft Visual Studio for development, and SQL Server Analysis Services (SSAS) and SQL Server Management Studio (SSMS) for data integration and analysis, the solution supports data-driven decision-making across multiple business areas.
 
 Key Objectives
