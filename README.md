@@ -7,4 +7,5 @@ Key Objectives
 1. Sales Performance: Facilitate real-time analysis of sales and inventory data, enhancing decision-making to drive business growth.
 2. Product Optimization: Identify high and low-performing products, optimize inventory, and allocate resources to align with market demand.
 3. Customer Insights: Analyze customer behavior and preferences to refine marketing strategies and improve engagement and retention.
+
 With these tools and analyses, the project delivers actionable insights into sales trends, product profitability, and customer purchasing behaviors, positioning Giant Bicycle Company for improved operational efficiency and market responsiveness.
